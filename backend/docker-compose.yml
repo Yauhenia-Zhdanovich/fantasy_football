@@ -1,0 +1,50 @@
+services:
+  app:
+    container_name: NodeJs
+    build: .
+    volumes:
+      - .:/server
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run start
+
+  mongo:
+    image: mongo:7
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: [ "CMD", "mongosh", "--eval", "db.adminCommand('ping')" ]
+      interval: 5s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongo
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: secret
+
+  seed:
+    build: .
+    container_name: mongo-seed
+    depends_on:
+      mongo:
+        condition: service_healthy
+    env_file:
+      - .env
+    volumes:
+      - .:/server
+    command: npm run seed
+
+volumes:
+  mongo-data:

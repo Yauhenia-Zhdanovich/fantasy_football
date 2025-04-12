@@ -1,0 +1,1434 @@
+{
+  "parameters": {
+    "season": "2023",
+    "league": "39",
+    "team": "40"
+  },
+  "response": [
+    {
+      "player": {
+        "id": 286,
+        "name": "J. Matip",
+        "firstname": "Job Joël André",
+        "lastname": "Matip",
+        "age": 33,
+        "birth": {
+          "date": "1991-08-08",
+          "place": "Bochum",
+          "country": "Germany"
+        },
+        "nationality": "Cameroon",
+        "height": "195 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/286.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 9,
+            "minutes": 783,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.040000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 563,
+            "key": 2,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 12,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 70,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158693,
+        "name": "O. Beck",
+        "firstname": "Owen Michael",
+        "lastname": "Beck",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-09",
+          "place": null,
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "177 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158693.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 7,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 127472,
+        "name": "N. Phillips",
+        "firstname": "Nathaniel Harry",
+        "lastname": "Phillips",
+        "age": 28,
+        "birth": {
+          "date": "1997-03-21",
+          "place": "Bolton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "190 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127472.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2678,
+        "name": "Diogo Jota",
+        "firstname": "Diogo José",
+        "lastname": "Teixeira da Silva",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-04",
+          "place": "Massarelos",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "178 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2678.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 14,
+            "minutes": 1150,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.257142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 11,
+            "bench": 8
+          },
+          "shots": {
+            "total": 30,
+            "on": 20
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 384,
+            "key": 22,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 191,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 247,
+        "name": "C. Gakpo",
+        "firstname": "Cody Mathès",
+        "lastname": "Gakpo",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-07",
+          "place": "Eindhoven",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "193 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/247.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 17,
+            "minutes": 1645,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.105714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 18,
+            "out": 14,
+            "bench": 18
+          },
+          "shots": {
+            "total": 49,
+            "on": 24
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 535,
+            "key": 25,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 4,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 247,
+            "won": 126
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306,
+        "name": "Mohamed Salah",
+        "firstname": "Mohamed",
+        "lastname": "Salah Hamed Mahrous Ghaly",
+        "age": 33,
+        "birth": {
+          "date": "1992-06-15",
+          "place": "Muḥāfaẓat al Gharbiyya",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "175 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 28,
+            "minutes": 2536,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.581250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 4
+          },
+          "shots": {
+            "total": 90,
+            "on": 56
+          },
+          "goals": {
+            "total": 18,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 935,
+            "key": 68,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 225,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 76,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 2,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 51617,
+        "name": "D. Núñez",
+        "firstname": "Darwin Gabriel",
+        "lastname": "Núñez Ribeiro",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-24",
+          "place": "Artigas",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "187 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/51617.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 22,
+            "minutes": 2047,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.983333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 13,
+            "bench": 15
+          },
+          "shots": {
+            "total": 86,
+            "on": 46
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 465,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 6,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 228,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2489,
+        "name": "L. Díaz",
+        "firstname": "Luis Fernando",
+        "lastname": "Díaz Marulanda",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-13",
+          "place": "Barrancas",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "178 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2489.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 32,
+            "minutes": 2645,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.191891",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 21,
+            "bench": 5
+          },
+          "shots": {
+            "total": 65,
+            "on": 32
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1018,
+            "key": 65,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 423,
+            "won": 170
+          },
+          "dribbles": {
+            "attempts": 124,
+            "success": 67,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19035,
+        "name": "H. Elliott",
+        "firstname": "Harvey Daniel James",
+        "lastname": "Elliott",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-04",
+          "place": "Chertsey",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "170 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19035.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 11,
+            "minutes": 1337,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.135294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 23,
+            "out": 7,
+            "bench": 27
+          },
+          "shots": {
+            "total": 30,
+            "on": 17
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 904,
+            "key": 37,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 117,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 542,
+        "name": "R. Gravenberch",
+        "firstname": "Ryan Jiro",
+        "lastname": "Gravenberch",
+        "age": 23,
+        "birth": {
+          "date": "2002-05-16",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "190 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/542.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 12,
+            "minutes": 1117,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.772000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 11,
+            "bench": 19
+          },
+          "shots": {
+            "total": 16,
+            "on": 8
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 493,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 2,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 159,
+            "won": 74
+          },
+          "dribbles": {
+            "attempts": 45,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 293,
+        "name": "C. Jones",
+        "firstname": "Curtis Julian",
+        "lastname": "Jones",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-30",
+          "place": "Liverpool",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/293.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 14,
+            "minutes": 1168,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.726086",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 13
+          },
+          "shots": {
+            "total": 12,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 750,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 147,
+            "won": 63
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6716,
+        "name": "A. Mac Allister",
+        "firstname": "Alexis",
+        "lastname": "Mac Allister",
+        "age": 27,
+        "birth": {
+          "date": "1998-12-24",
+          "place": "La Pampa",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "176 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6716.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 31,
+            "minutes": 2611,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.269696",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 13,
+            "bench": 2
+          },
+          "shots": {
+            "total": 25,
+            "on": 9
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 1923,
+            "key": 47,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 99,
+            "blocks": 8,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 388,
+            "won": 195
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 53
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1096,
+        "name": "D. Szoboszlai",
+        "firstname": "Dominik",
+        "lastname": "Szoboszlai",
+        "age": 25,
+        "birth": {
+          "date": "2000-10-25",
+          "place": "Budapest",
+          "country": "Hungary"
+        },
+        "nationality": "Hungary",
+        "height": "186 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1096.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 25,
+            "minutes": 2108,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.112500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 13,
+            "bench": 8
+          },
+          "shots": {
+            "total": 37,
+            "on": 15
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1397,
+            "key": 56,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 2,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 234,
+            "won": 97
+          },
+          "dribbles": {
+            "attempts": 51,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8500,
+        "name": "W. Endo",
+        "firstname": "Wataru",
+        "lastname": "Endo",
+        "age": 32,
+        "birth": {
+          "date": "1993-02-09",
+          "place": "Yokohama",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "178 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8500.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 20,
+            "minutes": 1722,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.750000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 13
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1305,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 2,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 259,
+            "won": 114
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 50
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180317,
+        "name": "C. Bradley",
+        "firstname": "Conor",
+        "lastname": "Bradley",
+        "age": 22,
+        "birth": {
+          "date": "2003-07-09",
+          "place": "Dungannon",
+          "country": "Northern Ireland"
+        },
+        "nationality": "Northern Ireland",
+        "height": "180 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180317.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 10,
+            "minutes": 761,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.281818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 8,
+            "bench": 9
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 435,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 120,
+            "won": 69
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

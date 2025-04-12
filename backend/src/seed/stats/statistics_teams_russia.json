@@ -1,0 +1,606 @@
+{
+  "response": [
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2023
+      },
+      "team": {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+      },
+      "form": "LWWWLDDDDWDDWWDLWLDWDWDLDLDWWW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 8,
+          "away": 4,
+          "total": 12
+        },
+        "draws": {
+          "home": 5,
+          "away": 7,
+          "total": 12
+        },
+        "loses": {
+          "home": 2,
+          "away": 4,
+          "total": 6
+        }
+      },
+      "goals": 101
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+      },
+      "form": "WWDWLWDWWLWDDDWLLLWWWWWDWWWLDW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 11,
+          "away": 6,
+          "total": 17
+        },
+        "draws": {
+          "home": 3,
+          "away": 4,
+          "total": 7
+        },
+        "loses": {
+          "home": 1,
+          "away": 5,
+          "total": 6
+        }
+      },
+      "goals": 13
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2021
+      },
+      "team": {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+      },
+      "form": "WLLWWLDWWDWWLLDLWWWWWWDLDWLLLW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 9,
+          "away": 6,
+          "total": 15
+        },
+        "draws": {
+          "home": 3,
+          "away": 2,
+          "total": 5
+        },
+        "loses": {
+          "home": 3,
+          "away": 7,
+          "total": 10
+        }
+      },
+      "goals": 444
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2023
+      },
+      "team": {
+        "id": 558,
+        "name": "Spartak Moscow",
+        "logo": "https://media.api-sports.io/football/teams/558.png"
+      },
+      "form": "WWWLLDLWWLDWLDWWLWDLDWLWDWDWWD",
+      "fixtures": 1212
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 558,
+        "name": "Spartak Moscow",
+        "logo": "https://media.api-sports.io/football/teams/558.png"
+      },
+      "form": "DWWWWLWLLWWWDWWDWDWLDDWWDLDWDL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 9,
+          "away": 6,
+          "total": 15
+        },
+        "draws": {
+          "home": 5,
+          "away": 4,
+          "total": 9
+        },
+        "loses": {
+          "home": 1,
+          "away": 5,
+          "total": 6
+        }
+      },
+      "goals": 232
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2021
+      },
+      "team": {
+        "id": 558,
+        "name": "Spartak Moscow",
+        "logo": "https://media.api-sports.io/football/teams/558.png"
+      },
+      "form": "LWLWDLWLWWDLDDLDWLLWLDLWDLWWDL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 6,
+          "away": 4,
+          "total": 10
+        },
+        "draws": {
+          "home": 5,
+          "away": 3,
+          "total": 8
+        },
+        "loses": {
+          "home": 4,
+          "away": 8,
+          "total": 12
+        }
+      },
+      "goals": 33
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2023
+      },
+      "team": {
+        "id": 596,
+        "name": "Zenit",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      },
+      "form": "WDLWWWDWLLWWWWDWLWDWDWWWLLDLWW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 9,
+          "away": 8,
+          "total": 17
+        },
+        "draws": {
+          "home": 2,
+          "away": 4,
+          "total": 6
+        },
+        "loses": {
+          "home": 4,
+          "away": 3,
+          "total": 7
+        }
+      },
+      "goals": 456
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 596,
+        "name": "Zenit",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      },
+      "form": "DWWDWWWWWWWDWWWLWWWLWWDWWWDDDW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 13,
+          "away": 8,
+          "total": 21
+        },
+        "draws": {
+          "home": 1,
+          "away": 6,
+          "total": 7
+        },
+        "loses": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        }
+      },
+      "goals": 343
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 596,
+        "name": "Zenit",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      },
+      "form": "DWWDWWWWWWWDWWWLWWWLWWDWWWDDDW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 13,
+          "away": 8,
+          "total": 21
+        },
+        "draws": {
+          "home": 1,
+          "away": 6,
+          "total": 7
+        },
+        "loses": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        }
+      },
+      "goals": 343
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2021
+      },
+      "team": {
+        "id": 596,
+        "name": "Zenit",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      },
+      "form": "WWWDDWWWWLLWWDWWDDWWDWDWWWWWDL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 13,
+          "away": 6,
+          "total": 19
+        },
+        "draws": {
+          "home": 1,
+          "away": 7,
+          "total": 8
+        },
+        "loses": {
+          "home": 1,
+          "away": 2,
+          "total": 3
+        }
+      },
+      "goals": 678
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2023
+      },
+      "team": {
+        "id": 597,
+        "name": "Lokomotiv",
+        "logo": "https://media.api-sports.io/football/teams/597.png"
+      },
+      "form": "DWLDDWWLWWDDLDWDWWLDDWDDWLWWWW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 7,
+          "away": 7,
+          "total": 14
+        },
+        "draws": {
+          "home": 7,
+          "away": 4,
+          "total": 11
+        },
+        "loses": {
+          "home": 1,
+          "away": 4,
+          "total": 5
+        }
+      },
+      "goals": 444
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 597,
+        "name": "Lokomotiv",
+        "logo": "https://media.api-sports.io/football/teams/597.png"
+      },
+      "form": "DDLLDWWLLLLLWLLDLWWWWLWDWWDWWW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 6,
+          "away": 7,
+          "total": 13
+        },
+        "draws": {
+          "home": 3,
+          "away": 3,
+          "total": 6
+        },
+        "loses": {
+          "home": 6,
+          "away": 5,
+          "total": 11
+        }
+      },
+      "goals": 555
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2021
+      },
+      "team": {
+        "id": 597,
+        "name": "Lokomotiv",
+        "logo": "https://media.api-sports.io/football/teams/597.png"
+      },
+      "form": "WWDDWDWDDLDWWDLLLWWLWWLDWLLWDW",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 9,
+          "away": 4,
+          "total": 13
+        },
+        "draws": {
+          "home": 2,
+          "away": 7,
+          "total": 9
+        },
+        "loses": {
+          "home": 4,
+          "away": 4,
+          "total": 8
+        }
+      },
+      "goals": 666
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2023
+      },
+      "team": {
+        "id": 1088,
+        "name": "Dynamo",
+        "logo": "https://media.api-sports.io/football/teams/1088.png"
+      },
+      "form": "LDWWWDWDLDDDWDWWWDWWLLLWWWWWWL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 10,
+          "away": 6,
+          "total": 16
+        },
+        "draws": {
+          "home": 2,
+          "away": 6,
+          "total": 8
+        },
+        "loses": {
+          "home": 3,
+          "away": 3,
+          "total": 6
+        }
+      },
+      "goals": 999
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2022
+      },
+      "team": {
+        "id": 1088,
+        "name": "Dynamo",
+        "logo": "https://media.api-sports.io/football/teams/1088.png"
+      },
+      "form": "DWDWDWDWLLLDWWWLWWLWLDWLLWLWLL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 8,
+          "away": 5,
+          "total": 13
+        },
+        "draws": {
+          "home": 2,
+          "away": 4,
+          "total": 6
+        },
+        "loses": {
+          "home": 5,
+          "away": 6,
+          "total": 11
+        }
+      },
+      "goals": 56
+    },
+    {
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/leagues/235.png",
+        "flag": "https://media.api-sports.io/flags/ru.svg",
+        "season": 2021
+      },
+      "team": {
+        "id": 1088,
+        "name": "Dynamo",
+        "logo": "https://media.api-sports.io/football/teams/1088.png"
+      },
+      "form": "WWWLWDLWWLDWLWWWWDWLWDWWWLLLDL",
+      "fixtures": {
+        "played": {
+          "home": 15,
+          "away": 15,
+          "total": 30
+        },
+        "wins": {
+          "home": 7,
+          "away": 9,
+          "total": 16
+        },
+        "draws": {
+          "home": 3,
+          "away": 2,
+          "total": 5
+        },
+        "loses": {
+          "home": 5,
+          "away": 4,
+          "total": 9
+        }
+      },
+      "goals": 12
+    }
+  ]
+}

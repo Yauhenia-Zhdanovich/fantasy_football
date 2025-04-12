@@ -1,0 +1,1244 @@
+{
+  "parameters": {
+    "season": "2022",
+    "league": "39",
+    "team": "40"
+  },
+  "response": [
+    {
+      "player": {
+        "id": 507,
+        "name": "Thiago Alcântara",
+        "firstname": "Thiago",
+        "lastname": "Alcântara do Nascimento",
+        "age": 33,
+        "birth": {
+          "date": "1991-04-11",
+          "place": "San Pietro Vernotico",
+          "country": "Italy"
+        },
+        "nationality": "Spain",
+        "height": "174 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/507.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 17,
+            "minutes": 1538,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 12,
+            "bench": 9
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1498,
+            "key": 29,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 2,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 199,
+            "won": 112
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 286,
+        "name": "J. Matip",
+        "firstname": "Job Joël André",
+        "lastname": "Matip",
+        "age": 33,
+        "birth": {
+          "date": "1991-08-08",
+          "place": "Bochum",
+          "country": "Germany"
+        },
+        "nationality": "Cameroon",
+        "height": "195 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/286.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2790,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.303225",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": 26,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 2319,
+            "key": 13,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 14,
+            "interceptions": 44
+          },
+          "duels": {
+            "total": 257,
+            "won": 175
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 294,
+        "name": "N. Keïta",
+        "firstname": "Naby Laye",
+        "lastname": "Keïta",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-10",
+          "place": "Conakry",
+          "country": "Guinea"
+        },
+        "nationality": "Guinea",
+        "height": "172 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/294.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 14,
+            "minutes": 1174,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.027272",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 10,
+            "bench": 15
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 743,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 2,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 146,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 296,
+        "name": "J. Milner",
+        "firstname": "James Philip",
+        "lastname": "Milner",
+        "age": 39,
+        "birth": {
+          "date": "1986-01-04",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/296.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 9,
+            "minutes": 843,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.011111",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 5,
+            "bench": 23
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 702,
+            "key": 22,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 5,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 109,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2678,
+        "name": "Diogo Jota",
+        "firstname": "Diogo José",
+        "lastname": "Teixeira da Silva",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-04",
+          "place": "Massarelos",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "178 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2678.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 27,
+            "minutes": 2373,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.028571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 17,
+            "bench": 9
+          },
+          "shots": {
+            "total": 71,
+            "on": 33
+          },
+          "goals": {
+            "total": 15,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 744,
+            "key": 41,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 39,
+            "blocks": 2,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 384,
+            "won": 143
+          },
+          "dribbles": {
+            "attempts": 69,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306,
+        "name": "Mohamed Salah",
+        "firstname": "Mohamed",
+        "lastname": "Salah Hamed Mahrous Ghaly",
+        "age": 33,
+        "birth": {
+          "date": "1992-06-15",
+          "place": "Muḥāfaẓat al Gharbiyya",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "175 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 30,
+            "minutes": 2762,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.391428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 5,
+            "bench": 5
+          },
+          "shots": {
+            "total": 101,
+            "on": 60
+          },
+          "goals": {
+            "total": 23,
+            "conceded": 0,
+            "assists": 13,
+            "saves": null
+          },
+          "passes": {
+            "total": 1079,
+            "key": 64,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 309,
+            "won": 100
+          },
+          "dribbles": {
+            "attempts": 124,
+            "success": 53,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2489,
+        "name": "L. Díaz",
+        "firstname": "Luis Fernando",
+        "lastname": "Díaz Marulanda",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-13",
+          "place": "Barrancas",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "178 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2489.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 11,
+            "minutes": 963,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.269230",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 5
+          },
+          "shots": {
+            "total": 23,
+            "on": 13
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 439,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 148,
+            "won": 69
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162590,
+        "name": "T. Morton",
+        "firstname": "Tyler Scott",
+        "lastname": "Morton",
+        "age": 23,
+        "birth": {
+          "date": "2002-10-31",
+          "place": "Wallasey",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162590.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 66,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 8
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 8,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19035,
+        "name": "H. Elliott",
+        "firstname": "Harvey Daniel James",
+        "lastname": "Elliott",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-04",
+          "place": "Chertsey",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "170 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19035.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 345,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 8
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 241,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 29,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 293,
+        "name": "C. Jones",
+        "firstname": "Curtis Julian",
+        "lastname": "Jones",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-30",
+          "place": "Liverpool",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/293.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 10,
+            "minutes": 853,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.958333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 6,
+            "bench": 15
+          },
+          "shots": {
+            "total": 14,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 587,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 115,
+            "won": 62
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 51617,
+        "name": "D. Núñez",
+        "firstname": "Darwin Gabriel",
+        "lastname": "Núñez Ribeiro",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-24",
+          "place": "Artigas",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "187 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/51617.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 19,
+            "minutes": 1699,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.885714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 13,
+            "bench": 10
+          },
+          "shots": {
+            "total": 71,
+            "on": 37
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 371,
+            "key": 28,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 214,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2489,
+        "name": "L. Díaz",
+        "firstname": "Luis Fernando",
+        "lastname": "Díaz Marulanda",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-13",
+          "place": "Barrancas",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "178 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2489.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 11,
+            "minutes": 996,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.970588",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 6,
+            "bench": 6
+          },
+          "shots": {
+            "total": 20,
+            "on": 8
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 446,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 191,
+            "won": 81
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19035,
+        "name": "H. Elliott",
+        "firstname": "Harvey Daniel James",
+        "lastname": "Elliott",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-04",
+          "place": "Chertsey",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "170 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19035.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 18,
+            "minutes": 1613,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.786666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 14,
+            "bench": 19
+          },
+          "shots": {
+            "total": 22,
+            "on": 12
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 957,
+            "key": 27,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 168,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+import './Country.ts';
+import './League.ts';
+import './Season.ts';
+import './Team.ts';
+import './TeamParticipation.ts';
+import './TeamStat.ts';
+import './Player.ts';
+import './PlayerStat.ts';

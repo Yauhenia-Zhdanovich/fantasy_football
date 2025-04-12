@@ -1,0 +1,1149 @@
+{
+  "parameters": {
+    "season": "2022",
+    "league": "39",
+    "team": "33"
+  },
+  "response": [
+    {
+      "player": {
+        "id": 747,
+        "name": "Casemiro",
+        "firstname": "Carlos Henrique",
+        "lastname": "Casimiro",
+        "age": 33,
+        "birth": {
+          "date": "1992-02-23",
+          "place": "São José dos Campos",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/747.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 24,
+            "minutes": 2126,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.239285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": 28,
+            "on": 11
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1412,
+            "key": 29,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 89,
+            "blocks": 11,
+            "interceptions": 34
+          },
+          "duels": {
+            "total": 322,
+            "won": 178
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 48
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 2
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 174,
+        "name": "C. Eriksen",
+        "firstname": "Christian",
+        "lastname": "Dannemann Eriksen",
+        "age": 33,
+        "birth": {
+          "date": "1992-02-14",
+          "place": "Middelfart",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "182 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/174.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 25,
+            "minutes": 2062,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.967857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 18,
+            "bench": 4
+          },
+          "shots": {
+            "total": 27,
+            "on": 12
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1391,
+            "key": 36,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 9,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 125,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 891,
+        "name": "L. Shaw",
+        "firstname": "Luke Paul Hoare",
+        "lastname": "Shaw",
+        "age": 30,
+        "birth": {
+          "date": "1995-07-12",
+          "place": "Kingston upon Thames",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/891.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2557,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.145161",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 6,
+            "bench": 5
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1806,
+            "key": 35,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 17,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 255,
+            "won": 142
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 46
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 886,
+        "name": "Diogo Dalot",
+        "firstname": "José Diogo",
+        "lastname": "Dalot Teixeira",
+        "age": 26,
+        "birth": {
+          "date": "1999-03-18",
+          "place": "Braga",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "183 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/886.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2155,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.026923",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 12,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1188,
+            "key": 29,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 7,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 180,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 28,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2935,
+        "name": "H. Maguire",
+        "firstname": "Jacob Harry",
+        "lastname": "Maguire",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-05",
+          "place": "Sheffield",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "194 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2935.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 8,
+            "minutes": 759,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.923076",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 0,
+            "bench": 23
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 574,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 11,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 71,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 889,
+        "name": "V. Lindelöf",
+        "firstname": "Victor Jörgen",
+        "lastname": "Nilsson Lindelöf",
+        "age": 31,
+        "birth": {
+          "date": "1994-07-17",
+          "place": "Västerås",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "187 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/889.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 14,
+            "minutes": 1360,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.820000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 16
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 927,
+            "key": 3,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 9,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 102,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 895,
+        "name": "J. Garner",
+        "firstname": "James David",
+        "lastname": "Garner",
+        "age": 24,
+        "birth": {
+          "date": "2001-03-13",
+          "place": "Birkenhead",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/895.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.618750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 298,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 89,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 874,
+        "name": "Cristiano Ronaldo",
+        "firstname": "Cristiano Ronaldo",
+        "lastname": "dos Santos Aveiro",
+        "age": 40,
+        "birth": {
+          "date": "1985-02-05",
+          "place": "Funchal",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "187 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/874.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 4,
+            "minutes": 520,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.810000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 8
+          },
+          "shots": {
+            "total": 19,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 158,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 47,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 905,
+        "name": "Fred",
+        "firstname": "Frederico",
+        "lastname": "Rodrigues de Paula Santos",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-05",
+          "place": "Belo Horizonte",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "169 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/905.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 12,
+            "minutes": 1233,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.781818",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 23,
+            "out": 6,
+            "bench": 26
+          },
+          "shots": {
+            "total": 16,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 763,
+            "key": 30,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 2,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 190,
+            "won": 92
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 908,
+        "name": "A. Martial",
+        "firstname": "Anthony Jordan",
+        "lastname": "Martial",
+        "age": 30,
+        "birth": {
+          "date": "1995-12-05",
+          "place": "Massy",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/908.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 11,
+            "minutes": 979,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.742857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 11,
+            "bench": 10
+          },
+          "shots": {
+            "total": 21,
+            "on": 13
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 320,
+            "key": 12,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 99,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 903,
+        "name": "S. McTominay",
+        "firstname": "Scott Francis",
+        "lastname": "McTominay",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-08",
+          "place": "Lancaster",
+          "country": "England"
+        },
+        "nationality": "Scotland",
+        "height": "193 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/903.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 10,
+            "minutes": 1149,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.669565",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 3,
+            "bench": 16
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 426,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 6,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 183,
+            "won": 95
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37145,
+        "name": "T. Malacia",
+        "firstname": "Tyrell Johannes Chicco",
+        "lastname": "Malacia",
+        "age": 26,
+        "birth": {
+          "date": "1999-08-17",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "170 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37145.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 14,
+            "minutes": 1392,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.761904",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 4,
+            "bench": 23
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 667,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 3,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 147,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

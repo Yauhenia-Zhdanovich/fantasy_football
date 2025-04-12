@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "name": "England",
+      "code": "GB-ENG",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "https://media.api-sports.io/flags/ru.svg"
+    }
+  ]
+}

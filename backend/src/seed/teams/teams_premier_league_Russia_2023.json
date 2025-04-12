@@ -1,0 +1,109 @@
+{
+  "parameters": {
+    "country": "Russia",
+    "season": "2023",
+    "league": 235
+  },
+  "response": [
+    {
+      "team": {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "code": "CSK",
+        "country": "Russia",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+      },
+      "venue": {
+        "id": 1333,
+        "name": "VEB Arena",
+        "address": "3-ya Peschanaya ul.",
+        "city": "Moskva",
+        "capacity": 30000,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/1333.png"
+      }
+    },
+    {
+      "team": {
+        "id": 558,
+        "name": "Spartak Moscow",
+        "code": "SPA",
+        "country": "Russia",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/558.png"
+      },
+      "venue": {
+        "id": 20743,
+        "name": "Lukoil Arena",
+        "address": "Volokolamskoye shosse, Tushino",
+        "city": "Moskva",
+        "capacity": 45360,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/20743.png"
+      }
+    },
+    {
+      "team": {
+        "id": 596,
+        "name": "Zenit",
+        "code": "ZEN",
+        "country": "Russia",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      },
+      "venue": {
+        "id": 20984,
+        "name": "Gazprom Arena",
+        "address": "Futbolnaya al.",
+        "city": "St. Petersburg",
+        "capacity": 68134,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/20984.png"
+      }
+    },
+    {
+      "team": {
+        "id": 597,
+        "name": "Lokomotiv",
+        "code": "LOK",
+        "country": "Russia",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/597.png"
+      },
+      "venue": {
+        "id": 1327,
+        "name": "RZD Arena",
+        "address": "ul. Bol&apos;shaya Cherkizovskaya 125",
+        "city": "Moskva",
+        "capacity": 28800,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/1327.png"
+      }
+    },
+    {
+      "team": {
+        "id": 1088,
+        "name": "Dynamo",
+        "code": "DYN",
+        "country": "Russia",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1088.png"
+      },
+      "venue": {
+        "id": 1334,
+        "name": "VTB Arena",
+        "address": "Leningradskiy pr., 36",
+        "city": "Moskva",
+        "capacity": 26716,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/1334.png"
+      }
+    }
+  ]
+}
