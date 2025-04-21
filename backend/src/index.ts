@@ -4,11 +4,10 @@ import jwt from '@fastify/jwt'
 import dotenv from 'dotenv'
 import mongoose from 'mongoose'
 import swagger from '@fastify/swagger'
-import { Country } from './models/Country.ts'
+import swaggerUI from '@fastify/swagger-ui'
 import teamRoutes from './routes/teamRoutes.ts'
 import playerRoutes from './routes/playersRoutes.ts'
 import './models/index.ts'
-import swaggerUI from '@fastify/swagger-ui';
 
 dotenv.config()
 
@@ -17,7 +16,26 @@ console.log('✅ Connected to MongoDB')
 
 const app = Fastify({ logger: true })
 
-await app.register(cors)
+await app.register(cors, {
+  origin: (origin, cb) => {
+    const allowedOrigins = [
+      'http://localhost:4200',
+    ]
+
+    const isAllowed =
+      !origin ||
+      allowedOrigins.includes(origin) ||
+      origin.endsWith('.vercel.app') ||
+      origin.endsWith('.netlify.app')
+
+    if (isAllowed) {
+      cb(null, true)
+    } else {
+      cb(new Error('Not allowed by CORS'), false)
+    }
+  },
+  credentials: true,
+})
 
 await app.register(jwt, {
   secret: process.env.JWT_SECRET || 'supersecret',
@@ -31,11 +49,11 @@ await app.register(swagger, {
       version: '1.0.0',
     },
   },
-});
+})
 
 await app.register(swaggerUI, {
   routePrefix: '/docs',
-});
+})
 
 app.get('/ping', async () => {
   return { message: 'pong' }
