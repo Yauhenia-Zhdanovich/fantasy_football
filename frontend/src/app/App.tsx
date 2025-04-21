@@ -1,1 +1,9 @@
-export const App = () => <h1>App</h1>
+import { Box, CssBaseline } from '@mui/material'
+import { MainLayout } from './layouts'
+
+export const App = () => (
+  <Box>
+    <CssBaseline />
+    <MainLayout />
+  </Box>
+)
