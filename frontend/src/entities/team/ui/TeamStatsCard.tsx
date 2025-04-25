@@ -40,7 +40,7 @@ export const TeamStatsCard = () => {
           icon={
             <LeagueLogo
               component={'img'}
-              src={mockTeam.venue.image}
+              src={mockTeam.league.logo}
               alt={'League logo'}
             />
           }
