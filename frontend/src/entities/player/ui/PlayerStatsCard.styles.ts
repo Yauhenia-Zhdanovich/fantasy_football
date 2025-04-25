@@ -17,11 +17,15 @@ export const CardContainer = styled(Box)({
   padding: '16px',
 })
 
-export const PlayerInfo = styled(Box)({
+export const PlayerInfo = styled(Box)(({ theme }) => ({
   display: 'flex',
   justifyContent: 'space-between',
   alignItems: 'flex-start',
-})
+  [theme.breakpoints.down('sm')]: {
+    flexDirection: 'column-reverse',
+    gap: '8px',
+  },
+}))
 
 export const PlayerDetails = styled(Box)({
   display: 'flex',
@@ -41,12 +45,15 @@ export const Info = styled(Box)({
   flexDirection: 'column',
 })
 
-export const AffiliationContainer = styled(Box)({
+export const AffiliationContainer = styled(Box)(({ theme }) => ({
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'flex-end',
   gap: '8px',
-})
+  [theme.breakpoints.down('sm')]: {
+    alignItems: 'flex-start',
+  },
+}))
 
 export const StyledChip = styled(Chip)({
   width: 'fit-content',
