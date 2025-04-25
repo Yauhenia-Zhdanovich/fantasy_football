@@ -16,13 +16,17 @@ export const CardContainer = styled(Box)({
   paddingBottom: '16px',
 })
 
-export const HeaderContainer = styled(Box)({
+export const HeaderContainer = styled(Box)(({ theme }) => ({
   display: 'flex',
   justifyContent: 'space-between',
   alignItems: 'start',
   paddingTop: '16px',
   paddingBottom: '16px',
-})
+  [theme.breakpoints.down('sm')]: {
+    flexDirection: 'column-reverse',
+    gap: '8px',
+  },
+}))
 
 export const TeamInfoContainer = styled(Box)({
   display: 'flex',
