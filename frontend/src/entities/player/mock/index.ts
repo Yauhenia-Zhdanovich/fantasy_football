@@ -1,0 +1,1 @@
+export { mockPlayer } from './data'
