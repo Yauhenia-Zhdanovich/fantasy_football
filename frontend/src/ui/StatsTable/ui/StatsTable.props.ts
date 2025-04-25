@@ -1,4 +1,7 @@
+type BodyContext = (string | number)[]
+
 export type StatsTableProps = {
   header: string[]
-  body: number[]
+  body: BodyContext
+  title?: string
 }

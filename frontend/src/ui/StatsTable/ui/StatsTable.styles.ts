@@ -1,6 +1,12 @@
-import { TableBody, TableContainer } from '@mui/material'
+import { Box, TableBody, TableContainer } from '@mui/material'
 import { grey } from '@mui/material/colors'
 import styled from 'styled-components'
+
+export const Outer = styled(Box)({
+  display: 'flex',
+  flexDirection: 'column',
+  gap: '8px',
+})
 
 export const StyledTableContainer = styled(TableContainer)({
   borderRadius: '4px',
