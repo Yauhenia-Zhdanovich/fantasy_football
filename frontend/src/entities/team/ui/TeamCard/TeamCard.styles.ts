@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 import type { ImageProps } from '@base/types'
 
-export const CardContainer = styled(Box)({
+export const CardContainer = styled(Box)(({ theme }) => ({
   width: '100%',
   display: 'flex',
   justifyContent: 'space-between',
@@ -13,7 +13,12 @@ export const CardContainer = styled(Box)({
   border: '1px solid',
   borderColor: grey[300],
   padding: '16px',
-})
+  [theme.breakpoints.down('sm')]: {
+    justifyContent: 'start',
+    alignItems: 'flex-start',
+    flexDirection: 'column',
+  },
+}))
 
 export const TitleContainer = styled(Box)({
   display: 'flex',
