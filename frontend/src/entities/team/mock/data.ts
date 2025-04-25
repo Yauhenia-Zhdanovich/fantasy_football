@@ -27,5 +27,6 @@ export const mockTeam = {
     draws: 0,
     loses: 0,
     goals: 0,
+    totalPoints: 0,
   },
 }

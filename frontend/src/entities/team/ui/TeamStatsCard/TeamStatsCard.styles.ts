@@ -1,12 +1,9 @@
-import { Box, type BoxProps } from '@mui/material'
+import { Box } from '@mui/material'
 import styled from 'styled-components'
 
 import { grey } from '@mui/material/colors'
 
-interface LogoProps extends BoxProps {
-  src: string
-  alt: string
-}
+import type { ImageProps } from '@base/types'
 
 export const CardContainer = styled(Box)({
   backgroundColor: grey[50],
@@ -34,7 +31,7 @@ export const TeamInfoContainer = styled(Box)({
   gap: '16px',
 })
 
-export const TeamLogo = styled(Box)<LogoProps>({
+export const TeamLogo = styled(Box)<ImageProps>({
   width: '40px',
   height: '40px',
   objectFit: 'contain',
@@ -45,7 +42,7 @@ export const TeamInfo = styled(Box)({
   flexDirection: 'column',
 })
 
-export const LeagueLogo = styled(Box)<LogoProps>({ width: 18, height: 18 })
+export const LeagueLogo = styled(Box)<ImageProps>({ width: 18, height: 18 })
 
 export const StadiumContainer = styled(Box)({
   display: 'flex',
@@ -54,7 +51,7 @@ export const StadiumContainer = styled(Box)({
   paddingBottom: '16px',
 })
 
-export const StadiumLogo = styled(Box)<LogoProps>({
+export const StadiumLogo = styled(Box)<ImageProps>({
   width: '40px',
   height: '40px',
   borderRadius: '8px',

@@ -1,7 +1,9 @@
 import { Chip, Divider, Typography } from '@mui/material'
 
-import { tableHeaders } from './config'
+import { StatsTable } from '@base/ui'
 
+import { tableHeaders } from '../../config'
+import { mockTeam } from '../../mock'
 import {
   CardContainer,
   HeaderContainer,
@@ -13,9 +15,6 @@ import {
   StadiumLogo,
   StadiumInfo,
 } from './TeamStatsCard.styles'
-
-import { mockTeam } from './mock'
-import { StatsTable } from '@base/ui'
 
 export const TeamStatsCard = () => {
   return (
