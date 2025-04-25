@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 
 import { CssBaseline, ThemeProvider } from '@mui/material'
+import { ThemeProvider as ScThemeProvider } from 'styled-components'
 
 import { App } from '@base/app'
 import { theme } from '@base/app'
@@ -15,8 +16,10 @@ if (!root) {
 createRoot(root).render(
   <StrictMode>
     <ThemeProvider theme={theme}>
-      <CssBaseline />
-      <App />
+      <ScThemeProvider theme={theme}>
+        <CssBaseline />
+        <App />
+      </ScThemeProvider>
     </ThemeProvider>
   </StrictMode>,
 )
