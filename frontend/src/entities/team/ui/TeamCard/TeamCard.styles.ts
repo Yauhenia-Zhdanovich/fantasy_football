@@ -5,6 +5,7 @@ import styled from 'styled-components'
 import type { ImageProps } from '@base/types'
 
 export const CardContainer = styled(Box)({
+  width: '100%',
   display: 'flex',
   justifyContent: 'space-between',
   alignItems: 'center',
