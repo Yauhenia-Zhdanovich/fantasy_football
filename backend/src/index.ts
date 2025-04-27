@@ -8,6 +8,8 @@ import swaggerUI from '@fastify/swagger-ui'
 import teamRoutes from './routes/teamRoutes.ts'
 import playerRoutes from './routes/playersRoutes.ts'
 import authRoutes from './routes/authRoutes.ts'
+import countryRoutes from './routes/countryRoutes.ts';
+import seasonRoutes from './routes/seasonRoutes.ts';
 import { ZodError } from 'zod'
 import './models/index.ts'
 
@@ -84,6 +86,8 @@ app.get('/', async () => {
 app.register(authRoutes);
 app.register(teamRoutes)
 app.register(playerRoutes)
+app.register(countryRoutes);
+app.register(seasonRoutes);
 
 const start = async () => {
   try {

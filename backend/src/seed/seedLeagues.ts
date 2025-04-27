@@ -19,7 +19,7 @@ export const seedLeagues = async () => {
     const { league, country, seasons } = entry;
 
     await League.updateOne(
-      { id: league.id, 'country.code': country.code }, // 👈 add this to ensure uniqueness
+      { id: league.id, 'country.code': country.code },
 
       {
         $set: {
