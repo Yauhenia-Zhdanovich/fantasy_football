@@ -6,3 +6,4 @@ import './TeamParticipation.ts';
 import './TeamStat.ts';
 import './Player.ts';
 import './PlayerStat.ts';
+import './User.ts';
