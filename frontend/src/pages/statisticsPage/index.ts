@@ -1,2 +1,1 @@
-
-export {StatisticsPageAsync as StatisticsPage} from './ui/StatisticsPage.async';
+export { StatisticsPageAsync as StatisticsPage } from "./ui/StatisticsPage.async";

@@ -1,4 +1,4 @@
-import { createTheme } from '@mui/material/styles';
+import { createTheme } from "@mui/material/styles";
 
 export const theme = createTheme({
   typography: {
@@ -7,13 +7,13 @@ export const theme = createTheme({
   },
   palette: {
     primary: {
-      main: '#2196F3', 
+      main: "#2196F3",
     },
     error: {
-      main: '#F44336',      
+      main: "#F44336",
     },
     text: {
-      secondary: '#0000008A', 
+      secondary: "#0000008A",
     },
   },
   spacing: (factor: number) => `${factor}px`,
