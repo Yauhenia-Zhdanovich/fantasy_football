@@ -7,6 +7,7 @@ import {
   MainText,
   PrimaryText,
   SecondaryText,
+  TeamBlockWrapper,
   VenueBlockWrapper,
 } from "./TeamCardStatistics.style";
 import { TeamStatistics } from "./TeamStatistics";
@@ -15,33 +16,26 @@ import type { FC } from "react";
 export const TeamCardStatistics: FC = () => {
   return (
     <CardWrapper>
-      <Box>
-        <Box
-          sx={{
-            display: "flex",
-            justifyContent: "space-between",
-          }}
-        >
-          <IconBlock>
-            <Avatar sizes="40px 40px" src={teamMockedData.team.logo} />
-            <Box>
-              <MainText>
-                {teamMockedData.team.name} <br />
-              </MainText>
-              <SecondaryText>
-                Founded: {teamMockedData.team.founded}
-              </SecondaryText>
-            </Box>
-          </IconBlock>
-          <LeagueBlock>
-            <Avatar
-              sx={{ width: "18px", height: "18px", marginRight: "5px" }}
-              src={teamMockedData.league.logo}
-            />
-            {teamMockedData.league.name}
-          </LeagueBlock>
-        </Box>
-      </Box>
+      <TeamBlockWrapper>
+        <IconBlock>
+          <Avatar sizes="40px 40px" src={teamMockedData.team.logo} />
+          <Box>
+            <MainText>
+              {teamMockedData.team.name} <br />
+            </MainText>
+            <SecondaryText>
+              Founded: {teamMockedData.team.founded}
+            </SecondaryText>
+          </Box>
+        </IconBlock>
+        <LeagueBlock>
+          <Avatar
+            sx={{ width: "18px", height: "18px", marginRight: "5px" }}
+            src={teamMockedData.league.logo}
+          />
+          {teamMockedData.league.name}
+        </LeagueBlock>
+      </TeamBlockWrapper>
 
       <VenueBlockWrapper>
         <IconBlock>

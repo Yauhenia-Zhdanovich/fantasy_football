@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
-import { Box, Button } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import { type FC, memo, useState } from "react";
 import { Link } from "react-router";
 import { RoutePaths } from "../../../shared/config/routeConfig/routeConfig";
@@ -23,7 +22,7 @@ export const Navbar: FC = memo(() => {
   return (
     <>
       <Header>
-        <Box>Fantasy league</Box>
+        <Typography component={"h1"}>Fantasy league</Typography>
         <Button
           variant="contained"
           sx={{
@@ -66,56 +65,3 @@ export const Navbar: FC = memo(() => {
     </>
   );
 });
-=======
-import { memo, useState } from 'react';
-import { Header, Navigation, NavItem } from './Navbar.style';
-import { RoutePaths } from '../../../shared/config/routeConfig/routeConfig';
-import { Link } from 'react-router';
-
-
-export const Navbar = memo(() => {
-    const [statisticPage, setStatisticPage] = useState(true);
-    const [teamPage, setTeamPage] = useState(false);
-
-    const showTeamPage = () => {
-        setStatisticPage(false);
-        setTeamPage(true);
-    }
-
-    const showStatPage = () => {
-        setTeamPage(false);
-        setStatisticPage(true);
-    }
-
-    return (
-        <>
-            <Header>Fantasy league</Header>
-            <Navigation>
-                <NavItem 
-                    onClick={showStatPage}
-                    isActive={statisticPage}>
-                        <Link
-                            to={RoutePaths.statistics}
-                            style={{
-                                all: 'unset'
-                            }}
-                        >
-                            STATISTICS
-                        </Link>
-                </NavItem>
-                <NavItem 
-                    onClick={showTeamPage}
-                    isActive={teamPage}>
-                        <Link
-                            to={RoutePaths.fantasy_teams}
-                            style={{
-                                all: 'unset'
-                            }}>
-                            FANTASY TEAMS
-                        </Link>
-                </NavItem>
-            </Navigation>
-        </>
-    );
-});
->>>>>>> 6d89d5e6d5195afb7cb6975a9572e8d5741fdeb4

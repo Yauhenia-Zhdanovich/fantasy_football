@@ -1,4 +1,4 @@
-import { Box, TableCell } from "@mui/material";
+import { Box, TableCell, Typography } from "@mui/material";
 import styled from "styled-components";
 import { theme } from "../../../../app/providers/theme/theme";
 
@@ -7,14 +7,18 @@ export const IconBlock = styled(Box)(() => ({
   gap: "16px",
 }));
 
-export const SecondaryText = styled(Box)(() => ({
-  color: theme.palette.text.secondary,
-  fontSize: "14px",
+export const SecondaryText = styled(Typography)(() => ({
+  "&&": {
+    color: theme.palette.text.secondary,
+    fontSize: "14px",
+  },
 }));
 
-export const MainText = styled(Box)(() => ({
-  fontSize: "16px",
-  lineHeight: "24px",
+export const MainText = styled(Typography)(() => ({
+  "&&": {
+    fontSize: "16px",
+    lineHeight: "24px",
+  },
 }));
 
 export const LeagueBlock = styled(Box)(() => ({
@@ -38,10 +42,12 @@ export const CardWrapper = styled(Box)(() => ({
   borderRadius: "4px",
 }));
 
-export const PrimaryText = styled(Box)(() => ({
-  fontSize: "14px",
-  lineHeight: "20px",
-  color: "#0B79D0",
+export const PrimaryText = styled(Typography)(() => ({
+  "&&": {
+    fontSize: "14px",
+    lineHeight: "20px",
+    color: "#0B79D0",
+  },
 }));
 
 export const VenueBlockWrapper = styled(Box)(() => ({
@@ -57,4 +63,9 @@ export const CustomTabelCell = styled(TableCell)(() => ({
     fontSize: "14px",
     lineHeight: "24px",
   },
+}));
+
+export const TeamBlockWrapper = styled(Box)(() => ({
+  display: "flex",
+  justifyContent: "space-between",
 }));

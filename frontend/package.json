@@ -12,27 +12,19 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-<<<<<<< HEAD
     "@mui/icons-material": "^7.0.2",
-=======
->>>>>>> 6d89d5e6d5195afb7cb6975a9572e8d5741fdeb4
     "@mui/material": "^7.0.2",
     "@types/styled-components": "^5.1.34",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router": "^7.5.1",
     "react-router-dom": "^7.5.1",
-<<<<<<< HEAD
     "styled-components": "^6.1.17",
-    "vite-plugin-svgr": "^4.3.0"
+    "vite-plugin-svgr": "^4.3.0",
+    "zod": "^3.24.3"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-=======
-    "styled-components": "^6.1.17"
-  },
-  "devDependencies": {
->>>>>>> 6d89d5e6d5195afb7cb6975a9572e8d5741fdeb4
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",

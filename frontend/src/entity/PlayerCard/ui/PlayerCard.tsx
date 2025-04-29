@@ -1,6 +1,8 @@
 import { Avatar, Box, Card, CardContent, Grid } from "@mui/material";
 import { playerMockData } from "../model/playerMockData";
 import {
+  CardHeader,
+  CustomCard,
   IconBlock,
   LeagueBlock,
   MainText,
@@ -17,25 +19,13 @@ import type { FC } from "react";
 
 export const PlayerCard: FC = () => {
   return (
-    <Card
-      variant="outlined"
-      sx={{
-        marginTop: "16px",
-        backgroundColor: "#FAFAFA",
-        maxWidth: "928px",
-      }}
-    >
+    <CustomCard variant="outlined">
       <CardContent
         sx={{
           "&&": { paddingBottom: "16px" },
         }}
       >
-        <Box
-          sx={{
-            display: "flex",
-            justifyContent: "space-between",
-          }}
-        >
+        <CardHeader>
           <IconBlock>
             <Avatar
               src={playerMockData.player.photo}
@@ -71,9 +61,9 @@ export const PlayerCard: FC = () => {
               {playerMockData.league.name}
             </LeagueBlock>
           </Box>
-        </Box>
+        </CardHeader>
         <Box>
-          <Grid container columnSpacing={16} rowSpacing={8}>
+          <Grid container columnSpacing={'16px'} rowSpacing={'8px'}>
             <Grid size={6}>
               <SecondaryText>Games</SecondaryText>
               <PlayerGamesTabel />
@@ -101,6 +91,6 @@ export const PlayerCard: FC = () => {
           </Grid>
         </Box>
       </CardContent>
-    </Card>
+    </CustomCard>
   );
 };

@@ -1,7 +1,9 @@
 import { Avatar, Box, Button, Card } from "@mui/material";
 import { teamMockedData } from "../../model/teamMockedData";
 import {
+  ContentWrapper,
   CountryBlock,
+  CustomCard,
   CustomCardContent,
   MainText,
   PrimaryText,
@@ -15,25 +17,14 @@ interface TeamCardProps {
 export const TeamCard: FC<TeamCardProps> = (props) => {
   const { number } = props;
   return (
-    <Card
-      variant="outlined"
-      sx={{
-        marginTop: "16px",
-        backgroundColor: "#FAFAFA",
-        maxWidth: "536px",
-      }}
-    >
+    <CustomCard variant="outlined">
       <CustomCardContent
         sx={{
           "&&": { paddingBottom: "16px" },
         }}
       >
         <Box>
-          <Box
-            sx={{
-              display: "flex",
-            }}
-          >
+          <ContentWrapper>
             <MainText>
               {number}. {teamMockedData.team.name} F.C.
             </MainText>
@@ -44,7 +35,7 @@ export const TeamCard: FC<TeamCardProps> = (props) => {
               />
               {teamMockedData.league.country.name}
             </CountryBlock>
-          </Box>
+          </ContentWrapper>
           <PrimaryText>
             Total points:{" "}
             {teamMockedData.stats.wins * 3 + teamMockedData.stats.draws}
@@ -64,6 +55,6 @@ export const TeamCard: FC<TeamCardProps> = (props) => {
           </Button>
         </Box>
       </CustomCardContent>
-    </Card>
+    </CustomCard>
   );
 };
