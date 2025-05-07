@@ -18,32 +18,43 @@ export const seedLeagues = async () => {
   for (const entry of parsed.response) {
     const { league, country, seasons } = entry;
 
+    const baseLeague = {
+      id: league.id,
+      name: league.name,
+      type: league.type,
+      logo: league.logo,
+      country: {
+        name: country.name,
+        code: country.code,
+        flag: country.flag,
+      },
+    };
+
+    const formattedSeasons = seasons.map((season: any) => ({
+      year: season.year,
+      start: season.start,
+      end: season.end,
+      current: season.current,
+      coverage: season.coverage,
+    }));
+
     await League.updateOne(
       { id: league.id, 'country.code': country.code },
-
-      {
-        $set: {
-          id: league.id,
-          name: league.name,
-          type: league.type,
-          logo: league.logo,
-          country: {
-            name: country.name,
-            code: country.code,
-            flag: country.flag,
-          },
-          seasons: seasons.map((season: any) => ({
-            year: season.year,
-            start: season.start,
-            end: season.end,
-            current: season.current,
-            coverage: season.coverage,
-          })),
-        },
-      },
+      { $setOnInsert: baseLeague },
       { upsert: true }
     );
+
+    for (const season of formattedSeasons) {
+      await League.updateOne(
+        {
+          id: league.id,
+          'country.code': country.code,
+          'seasons.year': { $ne: season.year },
+        },
+        { $push: { seasons: season } }
+      );
+    }
   }
 
-  console.log(`🏆 Seeded ${parsed.response.length} leagues`);
+  console.log(`🏆 Seeded ${parsed.response.length} leagues and merged seasons`);
 };
