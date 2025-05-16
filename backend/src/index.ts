@@ -13,6 +13,7 @@ import seasonRoutes from './routes/seasonRoutes.ts';
 import { ZodError } from 'zod'
 import './models/index.ts'
 import leagueRoutes from './routes/leagueRoutes.ts'
+import lineupRoutes from './routes/lineupRoutes.ts'
 
 dotenv.config()
 
@@ -90,6 +91,7 @@ app.register(playerRoutes)
 app.register(countryRoutes);
 app.register(leagueRoutes);
 app.register(seasonRoutes);
+app.register(lineupRoutes);
 
 const start = async () => {
   try {

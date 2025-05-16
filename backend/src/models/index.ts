@@ -7,3 +7,4 @@ import './TeamStat.ts';
 import './Player.ts';
 import './PlayerStat.ts';
 import './User.ts';
+import './FantasyTeam.ts';
