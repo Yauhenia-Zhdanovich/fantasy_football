@@ -8,13 +8,19 @@ export const GetPlayersByYearQuerySchema = z
   })
   .openapi({ title: 'GetPlayersByYearQuery' });
 
+const BirthSchema = z.object({
+  date: z.string().nullable(),
+  place: z.string().nullable(),
+  country: z.string().nullable(),
+});
+
 const PlayerSchema = z
   .object({
     id: z.string(),
     name: z.string(),
     age: z.number().nullable(),
     photo: z.string().url(),
-    birth: z.any().nullable(),
+    birth: BirthSchema,
     height: z.string().nullable(),
     weight: z.string().nullable(),
   })
