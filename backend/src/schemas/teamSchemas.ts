@@ -1,11 +1,11 @@
 import { z } from 'zod';
 import 'zod-openapi/extend';
 
-export const GetTeamsByYearQuerySchema = z
-  .object({
-    year: z.string().regex(/^\d{4}$/, 'Year must be a 4-digit string'),
-  })
-  .openapi({ title: 'GetTeamsByYearQuery' });
+export const GetTeamsByYearQuerySchema = z.object({
+  year: z.string().regex(/^\d{4}$/),
+  page: z.string().optional(),
+  per_page: z.string().optional(),
+}).openapi({ title: 'GetTeamsByYearQuery' });
 
 const CountrySchema = z
   .object({
@@ -62,7 +62,12 @@ export const TeamWithStatsSchema = z
   .openapi({ title: 'TeamWithStats' });
 
 export const GetTeamsByYearResponseSchema = z
-  .array(TeamWithStatsSchema)
+  .object({
+    page: z.number(),
+    total: z.number(),
+    totalPages: z.number(),
+    data: z.array(TeamWithStatsSchema),
+  })
   .openapi({ title: 'GetTeamsByYearResponse' });
 
 

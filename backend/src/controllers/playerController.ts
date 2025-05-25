@@ -3,14 +3,14 @@ import { Season } from '../models/Season.ts';
 import { PlayerStat } from '../models/PlayerStat.ts';
 
 export const getPlayersByYear = async (
-  request: FastifyRequest<{ Querystring: { year: string, page?: string } }>,
+  request: FastifyRequest<{ Querystring: { year: string; page?: string; per_page?: string } }>,
   reply: FastifyReply
 ) => {
   try {
     const year = parseInt(request.query.year);
     const page = parseInt(request.query.page || '1');
-    const limit = 20;
-    const skip = (page - 1) * limit;
+    const perPage = parseInt(request.query.per_page || '20');
+    const skip = (page - 1) * perPage;
 
     if (isNaN(year)) {
       return reply.status(400).send({ error: 'Invalid or missing "year" query parameter' });
@@ -28,7 +28,7 @@ export const getPlayersByYear = async (
       .populate('team')
       .populate('league')
       .skip(skip)
-      .limit(limit);
+      .limit(perPage);
 
     const players = stats.map((s: any) => ({
       player: {
@@ -84,9 +84,10 @@ export const getPlayersByYear = async (
 
     reply.send({
       page,
+      per_page: perPage,
       total,
-      totalPages: Math.ceil(total / limit),
-      players,
+      totalPages: Math.ceil(total / perPage),
+      data: players,
     });
   } catch (error) {
     request.log.error(error);

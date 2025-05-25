@@ -5,6 +5,7 @@ export const GetPlayersByYearQuerySchema = z
   .object({
     year: z.string().regex(/^\d{4}$/, 'Year must be a 4-digit string'),
     page: z.string().optional(),
+    per_page: z.string().optional(),
   })
   .openapi({ title: 'GetPlayersByYearQuery' });
 
@@ -103,7 +104,7 @@ export const GetPlayersByYearResponseSchema = z
     page: z.number(),
     total: z.number(),
     totalPages: z.number(),
-    players: z.array(PlayerWithStatsSchema),
+    data: z.array(PlayerWithStatsSchema),
   })
   .openapi({ title: 'GetPlayersByYearResponse' });
 

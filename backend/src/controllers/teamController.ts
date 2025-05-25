@@ -1,32 +1,32 @@
 import { FastifyRequest, FastifyReply } from 'fastify';
 import { Season } from '../models/Season.ts';
 import { TeamStat } from '../models/TeamStat.ts';
-import {
-  GetTeamsByYearQuerySchema,
-  GetTeamsByYearResponseSchema
-} from '../schemas/teamSchemas.ts';
 
 export const getTeamsByYear = async (
-  request: FastifyRequest,
+  request: FastifyRequest<{ Querystring: { year: string; page?: string; per_page?: string } }>,
   reply: FastifyReply
 ) => {
   try {
-    const parsed = GetTeamsByYearQuerySchema.safeParse(request.query);
+    const year = parseInt(request.query.year);
+    const page = parseInt(request.query.page || '1');
+    const perPage = parseInt(request.query.per_page || '20');
+    const skip = (page - 1) * perPage;
 
-    if (!parsed.success) {
-      request.log.warn({ issues: parsed.error.issues }, 'Invalid query params');
+    if (isNaN(year)) {
+      return reply.status(400).send({ error: 'Invalid or missing "year" query parameter' });
     }
-
-    const year = parseInt((request.query as any).year);
 
     const season = await Season.findOne({ year });
     if (!season) {
       return reply.status(404).send({ error: `No season found for year ${year}` });
     }
 
+    const total = await TeamStat.countDocuments({ season: season._id });
     const stats = await TeamStat.find({ season: season._id })
       .populate('team')
-      .populate('league');
+      .populate('league')
+      .skip(skip)
+      .limit(perPage);
 
     const result = stats.map((s: any) => ({
       team: {
@@ -56,12 +56,13 @@ export const getTeamsByYear = async (
       },
     }));
 
-    const responseValidation = GetTeamsByYearResponseSchema.safeParse(result);
-    if (!responseValidation.success) {
-      request.log.warn({ issues: responseValidation.error.issues }, 'Invalid response shape');
-    }
-
-    return reply.send(result);
+    return reply.send({
+      page,
+      per_page: perPage,
+      total,
+      totalPages: Math.ceil(total / perPage),
+      data: result,
+    });
   } catch (err) {
     request.log.error(err);
     return reply.status(500).send({ error: 'Internal server error' });
