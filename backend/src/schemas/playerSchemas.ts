@@ -6,6 +6,11 @@ export const GetPlayersByYearQuerySchema = z
     year: z.string().regex(/^\d{4}$/, 'Year must be a 4-digit string'),
     page: z.string().optional(),
     per_page: z.string().optional(),
+    league: z
+      .string()
+      .regex(/^\d+$/, 'League must be a numeric string')
+      .optional()
+      .openapi({ example: '39', description: 'External league.id to filter players by' }),
   })
   .openapi({ title: 'GetPlayersByYearQuery' });
 

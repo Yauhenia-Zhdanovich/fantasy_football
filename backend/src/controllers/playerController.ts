@@ -2,8 +2,13 @@ import { FastifyRequest, FastifyReply } from 'fastify';
 import { Season } from '../models/Season.ts';
 import { PlayerStat } from '../models/PlayerStat.ts';
 
+const getLeagueObjectIdByExternalId = async (externalId: number) => {
+  const league = await import('../models/League.ts').then(mod => mod.League.findOne({ id: externalId }));
+  return league?._id || null;
+};
+
 export const getPlayersByYear = async (
-  request: FastifyRequest<{ Querystring: { year: string; page?: string; per_page?: string } }>,
+  request: FastifyRequest<{ Querystring: { year: string; page?: string; per_page?: string; league?: string } }>,
   reply: FastifyReply
 ) => {
   try {
@@ -21,9 +26,19 @@ export const getPlayersByYear = async (
       return reply.status(404).send({ error: `No season found for year ${year}` });
     }
 
-    const total = await PlayerStat.countDocuments({ season: season._id });
+    const filter: Record<string, any> = { season: season._id };
 
-    const stats = await PlayerStat.find({ season: season._id })
+    if (request.query.league) {
+      const leagueId = parseInt(request.query.league);
+      filter['league'] = await getLeagueObjectIdByExternalId(leagueId);
+
+      if (!filter['league']) {
+        return reply.status(400).send({ error: `No league found with id ${leagueId}` });
+      }
+    }
+    const total = await PlayerStat.countDocuments(filter);
+
+    const stats = await PlayerStat.find(filter)
       .populate('player')
       .populate('team')
       .populate('league')
