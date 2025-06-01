@@ -46,10 +46,8 @@ export default async function fantasyTeamRoutes(fastify: FastifyInstance) {
       }
 
       if (!league || league.country?.code !== body.country) {
-        console.log('league', league);
         return reply.status(400).send({ error: 'Competition does not match country' });
       }
-      console.log("🚀 ~ handler: ~ league:", league, '======================>')
 
       const playerStats = await PlayerStat.find({
         player: { $in: body.players },
