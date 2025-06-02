@@ -1,0 +1,2189 @@
+{
+  "response": [
+    {
+      "player": {
+        "id": 1479,
+        "name": "Tiago Djaló",
+        "firstname": "Tiago Emanuel",
+        "lastname": "Embaló Djaló",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-09",
+          "place": "Amadora",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "190 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1479.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 16,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 16
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1821,
+        "name": "F. Kostić",
+        "firstname": "Filip",
+        "lastname": "Kostić",
+        "age": 33,
+        "birth": {
+          "date": "1992-11-01",
+          "place": "Kragujevac",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "184 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1821.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 26,
+            "minutes": 1834,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.920689",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 23,
+            "bench": 11
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 718,
+            "key": 40,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 8,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 154,
+            "won": 72
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 340078,
+        "name": "J. Nonge Boende",
+        "firstname": "Joseph",
+        "lastname": "Nonge Boende Ruíz",
+        "age": 20,
+        "birth": {
+          "date": "2005-05-15",
+          "place": null,
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "184 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/340078.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 23,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 22
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 851,
+        "name": "W. Szczęsny",
+        "firstname": "Wojciech Tomasz",
+        "lastname": "Szczęsny",
+        "age": 35,
+        "birth": {
+          "date": "1990-04-18",
+          "place": "Warszawa",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "195 cm",
+        "weight": "90 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/851.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3150,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.057142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 30,
+            "assists": 0,
+            "saves": 81
+          },
+          "passes": {
+            "total": 867,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 1
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 881,
+        "name": "H. Nicolussi",
+        "firstname": "Hans",
+        "lastname": "Nicolussi Caviglia",
+        "age": 25,
+        "birth": {
+          "date": "2000-06-18",
+          "place": "Aosta",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/881.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 3,
+            "minutes": 266,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.825000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 3,
+            "bench": 35
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 117,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 29,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 181808,
+        "name": "F. Miretti",
+        "firstname": "Fabio",
+        "lastname": "Miretti",
+        "age": 22,
+        "birth": {
+          "date": "2003-08-03",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/181808.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 16,
+            "minutes": 1108,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.692000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 16,
+            "bench": 21
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 413,
+            "key": 24,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 159,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 39,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 877,
+        "name": "M. Kean",
+        "firstname": "Moise Bioty",
+        "lastname": "Kean",
+        "age": 25,
+        "birth": {
+          "date": "2000-02-28",
+          "place": "Vercelli",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "183 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/877.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 8,
+            "minutes": 651,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.494736",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 8,
+            "bench": 15
+          },
+          "shots": {
+            "total": 12,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 93,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 99,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 876,
+        "name": "N. Fagioli",
+        "firstname": "Nicolò",
+        "lastname": "Fagioli",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-12",
+          "place": "Piacenza",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "178 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/876.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 438,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.050000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 201,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 27,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 323936,
+        "name": "M. Soulé",
+        "firstname": "Matías",
+        "lastname": "Soulé Malvano",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-15",
+          "place": "Mar del Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "182 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/323936.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.272222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 59,
+            "on": 24
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1399,
+            "key": 84,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 41,
+            "blocks": 4,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 457,
+            "won": 201
+          },
+          "dribbles": {
+            "attempts": 203,
+            "success": 102,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 339883,
+        "name": "K. Yıldız",
+        "firstname": "Kenan",
+        "lastname": "Yıldız",
+        "age": 20,
+        "birth": {
+          "date": "2005-05-04",
+          "place": "Regensburg",
+          "country": "Germany"
+        },
+        "nationality": "Türkiye",
+        "height": "185 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/339883.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 9,
+            "minutes": 944,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.852000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 18,
+            "out": 9,
+            "bench": 27
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 329,
+            "key": 18,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 141,
+            "won": 74
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 415,
+        "name": "W. McKennie",
+        "firstname": "Weston James Earl",
+        "lastname": "McKennie",
+        "age": 27,
+        "birth": {
+          "date": "1998-08-28",
+          "place": "Little Elm",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "183 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/415.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 29,
+            "minutes": 2601,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.035294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 12,
+            "bench": 7
+          },
+          "shots": {
+            "total": 19,
+            "on": 7
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 941,
+            "key": 41,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 7,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 230,
+            "won": 115
+          },
+          "dribbles": {
+            "attempts": 47,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30533,
+        "name": "M. Locatelli",
+        "firstname": "Manuel",
+        "lastname": "Locatelli",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-08",
+          "place": "Lecco",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30533.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 34,
+            "minutes": 3011,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.172222",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 3
+          },
+          "shots": {
+            "total": 14,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1959,
+            "key": 26,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 17,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 235,
+            "won": 132
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 127011,
+        "name": "A. Cambiaso",
+        "firstname": "Andrea",
+        "lastname": "Cambiaso",
+        "age": 25,
+        "birth": {
+          "date": "2000-02-20",
+          "place": "Genoa",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "182 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/127011.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 28,
+            "minutes": 2389,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.929411",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 24,
+            "bench": 7
+          },
+          "shots": {
+            "total": 23,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1051,
+            "key": 38,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 222,
+            "won": 106
+          },
+          "dribbles": {
+            "attempts": 53,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 268341,
+        "name": "F. Gatti",
+        "firstname": "Federico",
+        "lastname": "Gatti",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-24",
+          "place": "Rivoli",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "190 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/268341.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2641,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.034375",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 7,
+            "bench": 7
+          },
+          "shots": {
+            "total": 27,
+            "on": 7
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1299,
+            "key": 10,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 15,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 203,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 849,
+        "name": "M. Perin",
+        "firstname": "Mattia",
+        "lastname": "Perin",
+        "age": 33,
+        "birth": {
+          "date": "1992-11-10",
+          "place": "Latina",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/849.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 226,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.866666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 30
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": 0,
+            "saves": 4
+          },
+          "passes": {
+            "total": 57,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 2
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 861,
+        "name": "D. Rugani",
+        "firstname": "Daniele",
+        "lastname": "Rugani",
+        "age": 31,
+        "birth": {
+          "date": "1994-07-29",
+          "place": "Sesto di Moriano",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "190 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/861.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 13,
+            "minutes": 1186,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.913333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 3,
+            "bench": 25
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 633,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 4,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 81,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 272,
+        "name": "A. Rabiot",
+        "firstname": "Adrien Thibault Marie",
+        "lastname": "Rabiot-Provost",
+        "age": 30,
+        "birth": {
+          "date": "1995-04-03",
+          "place": "Saint-Maurice",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/272.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2651,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.235483",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 29,
+            "on": 17
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1137,
+            "key": 26,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 58,
+            "blocks": 6,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 315,
+            "won": 178
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 38,
+            "committed": 44
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162173,
+        "name": "S. Iling-Junior",
+        "firstname": "Samuel",
+        "lastname": "Iling-Junior",
+        "age": 22,
+        "birth": {
+          "date": "2003-10-04",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "182 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162173.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 4,
+            "minutes": 795,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.830434",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 20,
+            "out": 2,
+            "bench": 34
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 347,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 5,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 94,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10008,
+        "name": "Kaio Jorge",
+        "firstname": "Kaio Jorge",
+        "lastname": "Pinto Ramos",
+        "age": 23,
+        "birth": {
+          "date": "2002-01-24",
+          "place": "Olinda",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10008.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.415000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 21,
+            "on": 13
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 155,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 82,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 860,
+        "name": "Alex Sandro",
+        "firstname": "Alex Sandro",
+        "lastname": "Lobo Silva",
+        "age": 34,
+        "birth": {
+          "date": "1991-01-26",
+          "place": "Catanduva",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/860.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 8,
+            "minutes": 716,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 2,
+            "bench": 17
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 489,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 7,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 73,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 618,
+        "name": "Danilo",
+        "firstname": "Danilo Luiz",
+        "lastname": "da Silva",
+        "age": 34,
+        "birth": {
+          "date": "1991-07-15",
+          "place": "Bicas",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/618.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 27,
+            "minutes": 2450,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.303571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 12,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1733,
+            "key": 21,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 60,
+            "blocks": 15,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 192,
+            "won": 119
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 195993,
+        "name": "C. Alcaraz",
+        "firstname": "Carlos Jonas",
+        "lastname": "Alcaraz Duran",
+        "age": 23,
+        "birth": {
+          "date": "2002-11-30",
+          "place": "La Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "176 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/195993.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 3,
+            "minutes": 376,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 10
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 162,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 42,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30410,
+        "name": "F. Chiesa",
+        "firstname": "Federico",
+        "lastname": "Chiesa",
+        "age": 28,
+        "birth": {
+          "date": "1997-10-25",
+          "place": "Genova",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30410.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 25,
+            "minutes": 2206,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.096969",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 16,
+            "bench": 8
+          },
+          "shots": {
+            "total": 51,
+            "on": 27
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 568,
+            "key": 54,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 214,
+            "won": 95
+          },
+          "dribbles": {
+            "attempts": 83,
+            "success": 35,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

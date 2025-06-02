@@ -1,0 +1,1429 @@
+{
+  "response": [
+    {
+      "player": {
+        "id": 2045,
+        "name": "S. Kjær",
+        "firstname": "Simon",
+        "lastname": "Thorup Kjær",
+        "age": 35,
+        "birth": {
+          "date": "1989-03-26",
+          "place": "Horsens",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "191 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2045.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 14,
+            "minutes": 1172,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.884210",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 7,
+            "bench": 11
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 830,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 16,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 84,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 134926,
+        "name": "D. Maldini",
+        "firstname": "Daniel",
+        "lastname": "Maldini",
+        "age": 24,
+        "birth": {
+          "date": "2001-10-11",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/134926.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": null,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.614285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": null,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 72,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 50,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": null,
+            "yellowred": null,
+            "red": null
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31054,
+        "name": "R. Krunić",
+        "firstname": "Rade",
+        "lastname": "Krunić",
+        "age": 32,
+        "birth": {
+          "date": "1993-10-07",
+          "place": "Foča",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "184 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31054.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 8,
+            "minutes": 687,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.830000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 7
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 424,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 58,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2295,
+        "name": "O. Giroud",
+        "firstname": "Olivier Jonathan",
+        "lastname": "Giroud",
+        "age": 39,
+        "birth": {
+          "date": "1986-09-30",
+          "place": "Chambéry",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "193 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2295.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 28,
+            "minutes": 2374,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.160000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 17,
+            "bench": 8
+          },
+          "shots": {
+            "total": 68,
+            "on": 36
+          },
+          "goals": {
+            "total": 15,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 484,
+            "key": 32,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 3,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 220,
+            "won": 103
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 371910,
+        "name": "J. Šimić",
+        "firstname": "Jan-Carlo",
+        "lastname": "Šimić",
+        "age": 20,
+        "birth": {
+          "date": "2005-05-02",
+          "place": "Nürtingen",
+          "country": "Germany"
+        },
+        "nationality": "Serbia",
+        "height": "186 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/371910.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 142,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.850000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 64,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 4,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 48389,
+        "name": "N. Okafor",
+        "firstname": "Noah Arinzechukwu",
+        "lastname": "Okafor",
+        "age": 25,
+        "birth": {
+          "date": "2000-05-24",
+          "place": "Binningen",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "185 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/48389.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 6,
+            "minutes": 870,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 22,
+            "out": 6,
+            "bench": 26
+          },
+          "shots": {
+            "total": 21,
+            "on": 14
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 166,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 97,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 382945,
+        "name": "Kevin Zeroli",
+        "firstname": "Kevin",
+        "lastname": "Zeroli",
+        "age": 20,
+        "birth": {
+          "date": "2005-01-11",
+          "place": "Busto Arsizio",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "176 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/382945.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 25,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 14
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31273,
+        "name": "T. Pobega",
+        "firstname": "Tommaso",
+        "lastname": "Pobega",
+        "age": 26,
+        "birth": {
+          "date": "1999-07-15",
+          "place": "Trieste",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31273.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 3,
+            "minutes": 314,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.709090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 2,
+            "bench": 17
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 132,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 2,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 51,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1627,
+        "name": "D. Calabria",
+        "firstname": "Davide",
+        "lastname": "Calabria",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-06",
+          "place": "Brescia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1627.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 26,
+            "minutes": 2195,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.931034",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 11,
+            "bench": 7
+          },
+          "shots": {
+            "total": 16,
+            "on": 8
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1299,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 70,
+            "blocks": 7,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 210,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 1,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22236,
+        "name": "Rafael Leão",
+        "firstname": "Rafael Alexandre",
+        "lastname": "da Conceição Leão",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-10",
+          "place": "Almada",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "188 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22236.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 29,
+            "minutes": 2521,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.411764",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 14,
+            "bench": 5
+          },
+          "shots": {
+            "total": 47,
+            "on": 25
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 893,
+            "key": 59,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 316,
+            "won": 169
+          },
+          "dribbles": {
+            "attempts": 138,
+            "success": 77,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 52,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162106,
+        "name": "Y. Musah",
+        "firstname": "Yunus Dimoara",
+        "lastname": "Musah",
+        "age": 23,
+        "birth": {
+          "date": "2002-11-29",
+          "place": "New York",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "178 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162106.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 13,
+            "minutes": 1466,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.768965",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 17,
+            "out": 6,
+            "bench": 20
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 601,
+            "key": 14,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 4,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 164,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 297579,
+        "name": "C. Traorè",
+        "firstname": "Chaka",
+        "lastname": "Traorè",
+        "age": 21,
+        "birth": {
+          "date": "2004-12-23",
+          "place": "Abengourou",
+          "country": "Côte d'Ivoire"
+        },
+        "nationality": "Côte d'Ivoire",
+        "height": "175 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/297579.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 18,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1696,
+        "name": "S. Chukwueze",
+        "firstname": "Samuel Chimerenka",
+        "lastname": "Chukwueze",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-22",
+          "place": "Umahaia",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "172 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1696.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 12,
+            "minutes": 1015,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.787500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 10,
+            "bench": 15
+          },
+          "shots": {
+            "total": 18,
+            "on": 8
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 393,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 140,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 264472,
+        "name": "F. Terracciano",
+        "firstname": "Filippo",
+        "lastname": "Terracciano",
+        "age": 22,
+        "birth": {
+          "date": "2003-02-08",
+          "place": "Verona",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/264472.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 75,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.883333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 18
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 532,
+            "key": 18,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 6,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 170,
+            "won": 94
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 36902,
+        "name": "T. Reijnders",
+        "firstname": "Tijjani",
+        "lastname": "Reijnders",
+        "age": 27,
+        "birth": {
+          "date": "1998-07-29",
+          "place": "Zwolle",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "185 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/36902.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 33,
+            "minutes": 2829,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 12,
+            "bench": 4
+          },
+          "shots": {
+            "total": 29,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1689,
+            "key": 51,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 8,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 223,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 52,
+            "success": 35,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
