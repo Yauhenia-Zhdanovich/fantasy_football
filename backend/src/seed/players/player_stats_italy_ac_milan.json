@@ -1,4 +1,9 @@
 {
+  "parameters": {
+    "season": 2023,
+    "league": "135",
+    "team": "489"
+  },
   "response": [
     {
       "player": {
