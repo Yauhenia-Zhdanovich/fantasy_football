@@ -11,8 +11,6 @@ export const CreateFantasyTeamSchema = z
       .openapi({ example: 'Team Alpha' }),
     country: z
       .string()
-      .min(2)
-      .max(6)
       .openapi({ example: 'GB-ENG' }),
     competition: z
       .string()
